@@ -44,7 +44,7 @@ $(document).ready(function(){
     var typed = new Typed(".typing-2", {
         // strings: ["Web Developer", "Mentor", "Open Source Contributor", "Action on Google Developer", "Freelancer", "AI Enthusiast", "Front End Enthusiast", "UI Designer", "Photographer", "Technical Writer", "Author",  "Google Sketchup Designer"],
         
-        strings: ["Web Developer", "Mentor", "Freelancer", "Excel Professional", "Front End Enthusiast", "PowerPoint Professional", "Sketchup Designer", "Revit Designer", "Auto CAD Designer"],
+        strings: ["Mentor", "Freelancer","Front End Enthusiast",]
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
