@@ -1,2 +1,2 @@
 # WahabPortfolio
-https://syed-abdulwahab.github.io/WahabPortfolio/
+https://syed-abdulwahab.github.io/SyedPortfolio/
