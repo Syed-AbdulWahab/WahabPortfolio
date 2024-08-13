@@ -41,13 +41,13 @@ z$(document).ready(function(){
         loop: true
     });
 
-    var typed = new Typed(".typing-2", {
-        strings: ["Mentor", "Freelancer", "Front End Enthusiast"],
+    // var typed = new Typed(".typing-2", {
+    //     strings: ["Mentor", "Freelancer", "Front End Enthusiast"],
         
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    });
+    //     typeSpeed: 100,
+    //     backSpeed: 60,
+    //     loop: true
+    // });
 
     // owl carousel script
     $('.carousel').owlCarousel({
